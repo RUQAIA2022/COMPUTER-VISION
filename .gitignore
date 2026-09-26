@@ -1,0 +1,12 @@
+# Python & Virtual Environments
+venv/
+__pycache__/
+*.py[cod]
+
+# Datasets & Large Files
+data/
+dataset/
+*.pt
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/

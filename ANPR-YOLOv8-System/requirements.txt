@@ -1,0 +1,6 @@
+ultralytics==8.4.162
+gradio==6.28.0
+opencv-python
+pandas
+numpy
+PyYAML
