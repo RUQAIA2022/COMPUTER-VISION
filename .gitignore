@@ -10,3 +10,5 @@ dataset/
 
 # Jupyter Checkpoints
 .ipynb_checkpoints/
+
+runs/
